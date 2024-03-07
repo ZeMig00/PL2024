@@ -1,4 +1,4 @@
-#TPC4
+# TPC4
 
 ## Descrição
 Analisador léxico para uma liguagem de query com a qual se podem escrever frases do género:
